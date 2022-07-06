@@ -2,19 +2,34 @@
 
 body {
     background-color: #ECECEC;
+    background: url('/media/hero-img.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: calc(100vh - 164px);
 }
 
 html {
     height: 100%;
 }
 
+hr {
+    background-color: #000;
+}
+
 .text-black {
     color: #000 !important;
+}
+
+.border-black {
+    border: 1px solid black !important;
 }
 
 .logo-font {
     font-size: 50px;
     font-family: 'splash', sans-serif;
+}
+
+.text-black:hover {
+    color: #9B1E1E !important;
 }
 
 /* Media Queries */
