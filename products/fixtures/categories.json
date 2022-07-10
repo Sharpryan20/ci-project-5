@@ -1,0 +1,64 @@
+[{
+    "pk": 1,
+    "model": "products.category",
+    "fields": {
+        "name": "pens",
+        "firendly_name": "Pens"
+    }
+}, {
+    "pk": 2,
+    "model": "products.category",
+    "fields": {
+        "name": "pencil",
+        "firendly_name": "Pencil"
+    }
+}, {
+    "pk": 3,
+    "model": "products.category",
+    "fields": {
+        "name": "packs",
+        "firendly_name": "Packs"
+    }
+}, {
+    "pk": 4,
+    "model": "products.category",
+    "fields": {
+        "name": "paper",
+        "firendly_name": "Paper"
+    }
+}, {
+    "pk": 5,
+    "model": "products.category",
+    "fields": {
+        "name": "notepad_journal",
+        "firendly_name": "Notepad / Journal"
+    }
+}, {
+    "pk": 6,
+    "model": "products.category",
+    "fields": {
+        "name": "sketch_pad",
+        "firendly_name": "Sketch Pad"
+    }
+}, {
+    "pk": 7,
+    "model": "products.category",
+    "fields": {
+        "name": "maths",
+        "firendly_name": "Maths"
+    }
+}, {
+    "pk": 8,
+    "model": "products.category",
+    "fields": {
+        "name": "art",
+        "firendly_name": "Art"
+    }
+}, {
+    "pk": 9,
+    "model": "products.category",
+    "fields": {
+        "name": "accessories",
+        "firendly_name": "Accessories"
+    }
+}]
