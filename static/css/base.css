@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner&family=Splash&display=swap');
 
-body {
-    color: #ECECEC;
-}
 
 html {
     height: 100%;
@@ -10,10 +7,6 @@ html {
 
 .text-black {
     color: #000 !important;
-}
-
-.border-black {
-    border: 1px solid black !important;
 }
 
 .logo-font {
@@ -35,13 +28,44 @@ html {
 }
 
 .hero-img {
-    height: 500px;
+    height: 600px;
     width: 100%;
-    border: 2px solid black;
+    border: 1px solid lightgray;
 }
 
-.header-container {
-    padding-top: 8%
+.index-box {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: lightgrey;
+    opacity: 0.8;
+    color: black;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.shop-now-button {
+    font-size: 25px;
+}
+
+.shop-now-button:hover {
+    color: #9B1E1E;
+}
+
+.sign-up-button{
+    color: black;
+}
+
+.sign-up-button:hover {
+    color: #9B1E1E;
+    text-decoration: none;
 }
 
 /* Footer CSS */
