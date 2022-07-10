@@ -68,6 +68,26 @@ html {
     text-decoration: none;
 }
 
+.index-product-image {
+    padding: 15px;
+}
+
+.index-card {
+    padding: 10px;
+    font-family: 'Edu QLD Beginner',
+    sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.index-card a {
+    color: #000;
+}
+
+.index-card a:hover {
+    color: #9B1E1E;
+}
+
 /* Footer CSS */
 .site-footer {
     background-color: #F1F1F1;
