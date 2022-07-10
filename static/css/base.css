@@ -38,11 +38,18 @@ hr {
     font-family: 'Edu QLD Beginner', sans-serif;
 }
 
+
 /* Media Queries */
 
 /* Media queries for screens sized 992px and up */
 @media (min-width: 992px) {
     .header-container {
         padding-top: 164px
+    }
+}
+
+@media (max-width: 992px) {
+    .header-nav {
+        display: none;
     }
 }
