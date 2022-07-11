@@ -16,8 +16,8 @@
     "pk": 3,
     "model": "products.category",
     "fields": {
-        "name": "packs",
-        "firendly_name": "Packs"
+        "name": "markers",
+        "firendly_name": "Markers"
     }
 }, {
     "pk": 4,
