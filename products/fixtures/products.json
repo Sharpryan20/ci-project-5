@@ -203,7 +203,7 @@
         "name": "Grey A4 paper",
         "description": "This stack of 100 sheets of A4 Grey paper is perfect for arts and crafts.",
         "price": 4.99,
-        "category":4,
+        "category": 4,
         "rating": 3.6,
         "image": "grey-a4.jpg"
     }
@@ -493,4 +493,4 @@
         "rating": 4.9,
         "image": "white-a4-paper.jpg"
     }
-}, ]
+}]
