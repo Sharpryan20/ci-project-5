@@ -2,6 +2,7 @@
     "pk": 1,
     "model": "products.product",
     "fields": {
+        "sku": "pw001",
         "name": "A4 notepad",
         "description": "An A4 notepad, perfect for scribbling thoughts and notes.",
         "price": 4.99,
@@ -13,6 +14,7 @@
     "pk": 2,
     "model": "products.product",
     "fields": {
+        "sku": "pw002",
         "name": "Multipack pen set (4)",
         "description": "A 4 pack of pens. Colours include blue, pink, orange and yellow. All pens contain black ink.",
         "price": 5.49,
@@ -24,6 +26,7 @@
     "pk": 3,
     "model": "products.product",
     "fields": {
+        "sku": "pw003",
         "name": "Paint set (8 colours)",
         "description": "Paint set perfect for beginners. Colours in this pack are blue, white, black, green, yellow, red, brown and orange.",
         "price": 14.99,
@@ -35,6 +38,7 @@
     "pk": 4,
     "model": "products.product",
     "fields": {
+        "sku": "pw004",
         "name": "10 pencil pack",
         "description": "pencil pack of 10 pencils. The lead is not coloured.",
         "price": 3.99,
@@ -46,6 +50,7 @@
     "pk": 5,
     "model": "products.product",
     "fields": {
+        "sku": "pw005",
         "name": "Luxury A4 notepad ",
         "description": "An luxurious A4 notepad. Perfect for college or work. It's light and comes in a range of colours.",
         "price": 12.99,
@@ -57,6 +62,7 @@
     "pk": 6,
     "model": "products.product",
     "fields": {
+        "sku": "pw006",
         "name": "Art set",
         "description": "This art set contains 10 colour pencils, a ruler, an easer, sharpener and a ruler.",
         "price": 9.99,
@@ -68,6 +74,7 @@
     "pk": 7,
     "model": "products.product",
     "fields": {
+        "sku": "pw007",
         "name": "black paper set",
         "description": "10 pieces of black paper with two white lead pencils.",
         "price": 5.99,
@@ -79,6 +86,7 @@
     "pk": 8,
     "model": "products.product",
     "fields": {
+        "sku": "pw008",
         "name": "Envelope pack",
         "description": "A pack of assorted envelopes. Perfect any type of card or letter.",
         "price": 3.99,
@@ -90,6 +98,7 @@
     "pk": 9,
     "model": "products.product",
     "fields": {
+        "sku": "pw009",
         "name": "Bride to be card",
         "description": "An a4 sized specialty card for a bride to be.",
         "price": 2.79,
@@ -101,6 +110,7 @@
     "pk": 10,
     "model": "products.product",
     "fields": {
+        "sku": "pw010",
         "name": "Color pencil set (12)",
         "description": "A pencil colour set perfect for beginners or for children.",
         "price": 3.99,
@@ -112,6 +122,7 @@
     "pk": 11,
     "model": "products.product",
     "fields": {
+        "sku": "pw011",
         "name": "Colour Pencil set (10)",
         "description": "A set of coloured pencils. High quality pencils.",
         "price": 7.99,
@@ -123,6 +134,7 @@
     "pk": 12,
     "model": "products.product",
     "fields": {
+        "sku": "pw012",
         "name": "Colour Pencil set (40)",
         "description": "The biggest set of colour pencils you will ever find. there is more than enough colours in this pack to brighten anyones drawings.",
         "price": 12.99,
@@ -134,6 +146,7 @@
     "pk": 13,
     "model": "products.product",
     "fields": {
+        "sku": "pw013",
         "name": "Colour Pencil set (20)",
         "description": "This pack is not only affordable but offers you 20 different colours and shades of colours. Grab this pack now!",
         "price": 5.99,
@@ -145,6 +158,7 @@
     "pk": 14,
     "model": "products.product",
     "fields": {
+        "sku": "pw014",
         "name": "Diary",
         "description": "This diary is perfect for writing down day to day expereinces. It's small and light weight for easy carry.",
         "price": 8.99,
@@ -156,6 +170,7 @@
     "pk": 15,
     "model": "products.product",
     "fields": {
+        "sku": "pw015",
         "name": "Pencil set (12)",
         "description": "These pencils are special. They come with tiny rubber at the end of the pencil.",
         "price": 5.99,
@@ -167,6 +182,7 @@
     "pk": 16,
     "model": "products.product",
     "fields": {
+        "sku": "pw016",
         "name": "Felt tip set (10)",
         "description": "This felt tip set is packed full of colour, Enough colour to brighten any drawing.",
         "price": 6.99,
@@ -178,6 +194,7 @@
     "pk": 17,
     "model": "products.product",
     "fields": {
+        "sku": "pw017",
         "name": "Felt tip set (30)",
         "description": "The biggest felt tip set that we offer. It had many colours of many shades.",
         "price": 12.99,
@@ -189,6 +206,7 @@
     "pk": 18,
     "model": "products.product",
     "fields": {
+        "sku": "pw018",
         "name": "Gold nib pen",
         "description": "This is a high quality, high tech pen. The nib is gold and carries a high weight. Not advised for children.",
         "price": 42.99,
@@ -200,6 +218,7 @@
     "pk": 19,
     "model": "products.product",
     "fields": {
+        "sku": "pw019",
         "name": "Grey A4 paper",
         "description": "This stack of 100 sheets of A4 Grey paper is perfect for arts and crafts.",
         "price": 4.99,
@@ -211,6 +230,7 @@
     "pk": 20,
     "model": "products.product",
     "fields": {
+        "sku": "pw020",
         "name": "Art Journal",
         "description": "This journal is every artists dream. It can be used for sketching or doodling.",
         "price": 9.99,
@@ -222,6 +242,7 @@
     "pk": 21,
     "model": "products.product",
     "fields": {
+        "sku": "pw021",
         "name": "Uplifting quote journal set",
         "description": "This journal set includes a gold coloured pen to match the words on the front of the journal.",
         "price": 13.99,
@@ -233,6 +254,7 @@
     "pk": 22,
     "model": "products.product",
     "fields": {
+        "sku": "pw022",
         "name": "A5 journal",
         "description": "A small bag sized journal which makes writing your thoughts down with ease.",
         "price": 11.99,
@@ -244,6 +266,7 @@
     "pk": 23,
     "model": "products.product",
     "fields": {
+        "sku": "pw023",
         "name": "Math Set",
         "description": "This math set contains paper, whiteboard pen and everything a kid will need to start acing their maths classes.",
         "price": 4.99,
@@ -255,6 +278,7 @@
     "pk": 24,
     "model": "products.product",
     "fields": {
+        "sku": "pw024",
         "name": "Funky Notebook",
         "description": "Take important notes, jot down revision mind maps or get rid of mental clutter with a super handy notebook. There are endless possibilities with a notebook.",
         "price": 9.49,
@@ -266,6 +290,7 @@
     "pk": 25,
     "model": "products.product",
     "fields": {
+        "sku": "pw025",
         "name": "Notebook and pen set",
         "description": "Quality notebook with a durable, hardback cover, perfect for taking notes at home or in an office. Comes with a set of 3 pens.",
         "price": 13.99,
@@ -277,6 +302,7 @@
     "pk": 26,
     "model": "products.product",
     "fields": {
+        "sku": "pw026",
         "name": "A5 notepad and pen",
         "description": "This set is perfect for those who need a small portable notepad that be taken in any bag and even coat. It is small and light which is easy to carry. It comes with two ballpoint pens.",
         "price": 13.99,
@@ -288,6 +314,7 @@
     "pk": 27,
     "model": "products.product",
     "fields": {
+        "sku": "pw027",
         "name": "Leaf covered note pad.",
         "description": "This hardback cover notepad is filled with high quality paper. A good gift to recieve. ",
         "price": 15.99,
@@ -299,6 +326,7 @@
     "pk": 28,
     "model": "products.product",
     "fields": {
+        "sku": "pw028",
         "name": "Notepad (4 pack)",
         "description": "This pack contains 4 notepads which is ideal for bulk buying. The notepads contain lined A4 paper. ",
         "price": 15.99,
@@ -310,6 +338,7 @@
     "pk": 29,
     "model": "products.product",
     "fields": {
+        "sku": "pw029",
         "name": "Colourful Notepads (3)",
         "description": "This pack comes with 3 notepads. The notepad colours are pink, purple and yellow.",
         "price": 13.99,
@@ -321,6 +350,7 @@
     "pk": 30,
     "model": "products.product",
     "fields": {
+        "sku": "pw030",
         "name": "Office Notebook",
         "description": "This notebook is brilliant for writing ideas in the office, at home or in a classroom.",
         "price": 8.99,
@@ -332,6 +362,7 @@
     "pk": 31,
     "model": "products.product",
     "fields": {
+        "sku": "pw031",
         "name": "Orange mug and Pen set",
         "description": "This novelty set makes a great gift for a loved one or a colleague. (or someone who really likes the colour orange)",
         "price": 12.49,
@@ -343,6 +374,7 @@
     "pk": 32,
     "model": "products.product",
     "fields": {
+        "sku": "pw032",
         "name": "Paintbrush set",
         "description": "This set of paint brushes is the ultimate starter pack for any artist. The set has brushes of all different styles and sizes to help one master the art of well... art.",
         "price": 4.99,
@@ -354,6 +386,7 @@
     "pk": 33,
     "model": "products.product",
     "fields": {
+        "sku": "pw033",
         "name": "Coloured Paper clips",
         "description": "These coloured paper clips are perfect for home and office oragnising. There are 100 paper clips in this set.",
         "price": 2.49,
@@ -365,6 +398,7 @@
     "pk": 34,
     "model": "products.product",
     "fields": {
+        "sku": "pw034",
         "name": "Foldback clips",
         "description": "These foldback clips are great for being able to hold the paper to a larger surface. The clip section is removable.",
         "price": 3.49,
@@ -376,6 +410,7 @@
     "pk": 35,
     "model": "products.product",
     "fields": {
+        "sku": "pw035",
         "name": "Paper clips and drawing pins",
         "description": "This set you get both for paper clips and drawing pins. This is the ultimate home and office organising set up.",
         "price": 4.49,
@@ -387,6 +422,7 @@
     "pk": 36,
     "model": "products.product",
     "fields": {
+        "sku": "pw036",
         "name": "Pen and Pencil set",
         "description": "This pen and pencil set will help with anything. Need a pen for school? Here it is. Need a pencil to doodle? Got one right here.",
         "price": 6.49,
@@ -398,6 +434,7 @@
     "pk": 37,
     "model": "products.product",
     "fields": {
+        "sku": "pw037",
         "name": "Pencil set (10)",
         "description": "This set of HB pencils are perfect for in the classroom. They are sturdy and last a while.",
         "price": 1.99,
@@ -409,6 +446,7 @@
     "pk": 38,
     "model": "products.product",
     "fields": {
+        "sku": "pw038",
         "name": "Poster cards",
         "description": "These poster cards are great for home decoration. Or to send to a friend to cheer them up.",
         "price": 3.99,
@@ -420,6 +458,7 @@
     "pk": 39,
     "model": "products.product",
     "fields": {
+        "sku": "pw039",
         "name": "Stationery set",
         "description": "This stationery is a must for your kid. It has everything they will need for the beginning of the school year. This set can also be used for office use.",
         "price": 7.49,
@@ -431,6 +470,7 @@
     "pk": 40,
     "model": "products.product",
     "fields": {
+        "sku": "pw040",
         "name": "Sketch pad",
         "description": "This sketch pad is a work of art. No! Literally! It has 40 pages of plain A4 paper waiting to be filled out.",
         "price": 4.59,
@@ -442,6 +482,7 @@
     "pk": 41,
     "model": "products.product",
     "fields": {
+        "sku": "pw041",
         "name": "Organisation set",
         "description": "This set has it all. It's got a to do list pad to help you remember important tasks. It contains foldback clips to help keep large volume of paper together.",
         "price": 6.99,
@@ -453,6 +494,7 @@
     "pk": 42,
     "model": "products.product",
     "fields": {
+        "sku": "pw042",
         "name": "Notepad set",
         "description": "This set contains; a notebook, three highligters and a pack of 20 paper clips.",
         "price": 5.99,
@@ -464,6 +506,7 @@
     "pk": 43,
     "model": "products.product",
     "fields": {
+        "sku": "pw043",
         "name": "Ultimate Organisation set",
         "description": "This set is an organisers dream. It has literally everything that anyone would ever need. It has pegs, foldback clips, staples and so much more. This is a must have.",
         "price": 9.49,
@@ -475,6 +518,7 @@
     "pk": 44,
     "model": "products.product",
     "fields": {
+        "sku": "pw044",
         "name": "English Stationery set",
         "description": "This set is perfect for an english class. The pencil case is included with the purchase.",
         "price": 7.99,
@@ -486,6 +530,7 @@
     "pk": 45,
     "model": "products.product",
     "fields": {
+        "sku": "pw045",
         "name": "A4 Paper",
         "description": "Stack of 200 plain white paper sheets.",
         "price": 4.99,
