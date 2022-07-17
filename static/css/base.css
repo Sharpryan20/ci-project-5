@@ -88,6 +88,16 @@ html {
     color: #9B1E1E;
 }
 
+.overlay {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background: white;
+    z-index: -1;
+}
+
 /* Footer CSS */
 .site-footer {
     background-color: #F1F1F1;
