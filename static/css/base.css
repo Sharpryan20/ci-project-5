@@ -98,6 +98,11 @@ html {
     z-index: -1;
 }
 
+.products-header {
+    padding: 12px;
+    font-family: 'Edu QLD Beginner', sans-serif;
+}
+
 /* Footer CSS */
 .site-footer {
     background-color: #F1F1F1;
