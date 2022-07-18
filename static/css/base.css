@@ -103,6 +103,10 @@ html {
     font-family: 'Edu QLD Beginner', sans-serif;
 }
 
+.card-img-top {
+    height: 200px;
+}
+
 /* Footer CSS */
 .site-footer {
     background-color: #F1F1F1;
