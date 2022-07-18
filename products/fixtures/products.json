@@ -8,7 +8,8 @@
         "price": 4.99,
         "category": 5,
         "rating": 4.3,
-        "image": "4-pack-notepad.jpg"
+        "image": "4-pack-notepad.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076679/PW-products/4-pack-notepad_gua9wg.jpg"
     }
 }, {
     "pk": 2,
@@ -20,7 +21,8 @@
         "price": 5.49,
         "category": 1,
         "rating": 4.8,
-        "image": "4packmultipen.jpg"
+        "image": "4packmultipen.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076672/PW-products/4packmultipen_sjt7na.jpg"
     }
 }, {
     "pk": 3,
@@ -32,7 +34,8 @@
         "price": 14.99,
         "category": 8,
         "rating": 4.7,
-        "image": "8-paint-set.jpg"
+        "image": "8-paint-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076688/PW-products/8-paint-set_ckxyzr.jpg"
     }
 }, {
     "pk": 4,
@@ -44,7 +47,8 @@
         "price": 3.99,
         "category": 2,
         "rating": 4.0,
-        "image": "10packcolourpenc.jpg"
+        "image": "10packcolourpenc.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076697/PW-products/10packcolourpenc_alzfq2.jpg"
     }
 }, {
     "pk": 5,
@@ -56,7 +60,8 @@
         "price": 12.99,
         "category": 5,
         "rating": 4.9,
-        "image": "a4-notebook.jpg"
+        "image": "a4-notebook.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076674/PW-products/a4-notebook_dcoajb.jpg"
     }
 }, {
     "pk": 6,
@@ -68,7 +73,8 @@
         "price": 9.99,
         "category": 8,
         "rating": 4.6,
-        "image": "art-set.jpg"
+        "image": "art-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076708/PW-products/art-set_xgn2bp.jpg"
     }
 }, {
     "pk": 7,
@@ -80,7 +86,8 @@
         "price": 5.99,
         "category": 8,
         "rating": 3.8,
-        "image": "art-set3.jpg"
+        "image": "art-set3.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076693/PW-products/art-set3_gslafr.jpg"
     }
 }, {
     "pk": 8,
@@ -92,7 +99,8 @@
         "price": 3.99,
         "category": 4,
         "rating": 4.1,
-        "image": "assortment-envelopes.jpg"
+        "image": "assortment-envelopes.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076668/PW-products/assortment-envelopes_fm4bee.jpg"
     }
 }, {
     "pk": 9,
@@ -104,7 +112,8 @@
         "price": 2.79,
         "category": 4,
         "rating": 2.8,
-        "image": "bride-card.jpg"
+        "image": "bride-card.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076699/PW-products/bride-card_zev6bx.jpg"
     }
 }, {
     "pk": 10,
@@ -116,7 +125,8 @@
         "price": 3.99,
         "category": 2,
         "rating": 4.3,
-        "image": "colour-pencil-set3.jpg"
+        "image": "colour-pencil-set3.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076678/PW-products/color-pencil-set3_fdmhka.jpg"
     }
 }, {
     "pk": 11,
@@ -128,7 +138,8 @@
         "price": 7.99,
         "category": 2,
         "rating": 5.0,
-        "image": "colour-pencil-set4.jpg"
+        "image": "colour-pencil-set4.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076639/PW-products/color-pencil-set4_b0glmt.jpg"
     }
 }, {
     "pk": 12,
@@ -140,7 +151,8 @@
         "price": 12.99,
         "category": 2,
         "rating": 3.9,
-        "image": "colourpencil-set.jpg"
+        "image": "colourpencil-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076655/PW-products/colorpencil-set_dtanmp.jpg"
     }
 }, {
     "pk": 13,
@@ -152,7 +164,8 @@
         "price": 5.99,
         "category": 2,
         "rating": 4.4,
-        "image": "colourpencil-set2.jpg"
+        "image": "colourpencil-set2.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076662/PW-products/colorpencil-set2_twujxd.jpg"
     }
 }, {
     "pk": 14,
@@ -164,7 +177,8 @@
         "price": 8.99,
         "category": 5,
         "rating": 4.2,
-        "image": "diaries.jpg"
+        "image": "diaries.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076670/PW-products/diaries_zbymkz.jpg"
     }
 }, {
     "pk": 15,
@@ -176,7 +190,8 @@
         "price": 5.99,
         "category": 2,
         "rating": 3.7,
-        "image": "easer-pencil-set.jpg"
+        "image": "easer-pencil-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076653/PW-products/easer-pencil-set_hi1lay.jpg"
     }
 }, {
     "pk": 16,
@@ -188,7 +203,8 @@
         "price": 6.99,
         "category": 3,
         "rating": 4.9,
-        "image": "felt-pen-set.jpg"
+        "image": "felt-pen-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076652/PW-products/felt-pen-set_jdpnoa.jpg"
     }
 }, {
     "pk": 17,
@@ -200,7 +216,8 @@
         "price": 12.99,
         "category": 3,
         "rating": 3.9,
-        "image": "felt-set-2.jpg"
+        "image": "felt-set-2.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076647/PW-products/felt-set-2_ad79ro.jpg"
     }
 }, {
     "pk": 18,
@@ -212,7 +229,8 @@
         "price": 42.99,
         "category": 1,
         "rating": 4.6,
-        "image": "gold-nib-pen.jpg"
+        "image": "gold-nib-pen.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076636/PW-products/gold-nib-pen_tfctdr.jpg"
     }
 }, {
     "pk": 19,
@@ -224,7 +242,8 @@
         "price": 4.99,
         "category": 4,
         "rating": 3.6,
-        "image": "grey-a4.jpg"
+        "image": "grey-a4.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076649/PW-products/grey-a4_xzkvql.jpg"
     }
 }, {
     "pk": 20,
@@ -236,7 +255,8 @@
         "price": 9.99,
         "category": 5,
         "rating": 4.3,
-        "image": "journal 2.jpg"
+        "image": "journal 2.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076639/PW-products/journal_2_z5a9gh.jpg"
     }
 }, {
     "pk": 21,
@@ -248,7 +268,8 @@
         "price": 13.99,
         "category": 5,
         "rating": 4.5,
-        "image": "journal-pen-set.jpg"
+        "image": "journal-pen-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076643/PW-products/journal-pen-set_jft10r.jpg"
     }
 }, {
     "pk": 22,
@@ -260,7 +281,8 @@
         "price": 11.99,
         "category": 5,
         "rating": 3.7,
-        "image": "journal.jpg"
+        "image": "journal.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076649/PW-products/journal_ajvsut.jpg"
     }
 }, {
     "pk": 23,
@@ -272,7 +294,8 @@
         "price": 4.99,
         "category": 7,
         "rating": 4.3,
-        "image": "math-set-2.jpg"
+        "image": "math-set-2.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076644/PW-products/math-set-2_wm96fz.jpg"
     }
 }, {
     "pk": 24,
@@ -284,7 +307,8 @@
         "price": 9.49,
         "category": 5,
         "rating": 4.1,
-        "image": "notebook.jpg"
+        "image": "notebook.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076641/PW-products/notebook_z5m117.jpg"
     }
 }, {
     "pk": 25,
@@ -296,7 +320,8 @@
         "price": 13.99,
         "category": 5,
         "rating": 4.9,
-        "image": "notepad-pen-set.jpg"
+        "image": "notepad-pen-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076666/PW-products/notepad-pen-set_wyegyx.jpg"
     }
 }, {
     "pk": 26,
@@ -308,7 +333,8 @@
         "price": 13.99,
         "category": 5,
         "rating": 4.9,
-        "image": "notepad-pen-set2.jpg"
+        "image": "notepad-pen-set2.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076669/PW-products/notepad-pen-set2_h23s9x.jpg"
     }
 }, {
     "pk": 27,
@@ -320,7 +346,8 @@
         "price": 15.99,
         "category": 5,
         "rating": 3.7,
-        "image": "notepad-pen-set3.jpg"
+        "image": "notepad-pen-set3.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076659/PW-products/notepad-pen-set3_kzazub.jpg"
     }
 }, {
     "pk": 28,
@@ -332,7 +359,8 @@
         "price": 15.99,
         "category": 5,
         "rating": 4.9,
-        "image": "notepad.jpg"
+        "image": "notepad.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076683/PW-products/notepad_jkhemz.jpg"
     }
 }, {
     "pk": 29,
@@ -344,7 +372,8 @@
         "price": 13.99,
         "category": 5,
         "rating": 4.7,
-        "image": "notepad2.jpg"
+        "image": "notepad2.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076655/PW-products/notepad2_moctdx.jpg"
     }
 }, {
     "pk": 30,
@@ -356,7 +385,8 @@
         "price": 8.99,
         "category": 5,
         "rating": 4.0,
-        "image": "notepad3.jpg"
+        "image": "notepad3.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076644/PW-products/notepad3_lr78sx.jpg"
     }
 }, {
     "pk": 31,
@@ -368,7 +398,8 @@
         "price": 12.49,
         "category": 9,
         "rating": 3.8,
-        "image": "orange-pen-n-mug.jpg"
+        "image": "orange-pen-n-mug.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076638/PW-products/orange-pen-n-mug_asbgkx.jpg"
     }
 }, {
     "pk": 32,
@@ -380,7 +411,8 @@
         "price": 4.99,
         "category": 5,
         "rating": 4.1,
-        "image": "paintbrush-set.jpg"
+        "image": "paintbrush-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076708/PW-products/paintbrush-set_iwardn.jpg"
     }
 }, {
     "pk": 33,
@@ -392,7 +424,8 @@
         "price": 2.49,
         "category": 9,
         "rating": 5.0,
-        "image": "paper-clip-set.jpg"
+        "image": "paper-clip-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076654/PW-products/paper-clip-set_vzndvj.jpg"
     }
 }, {
     "pk": 34,
@@ -404,7 +437,8 @@
         "price": 3.49,
         "category": 9,
         "rating": 4.7,
-        "image": "paper-clips.jpg"
+        "image": "paper-clips.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076657/PW-products/paper-clips_oxwcjw.jpg"
     }
 }, {
     "pk": 35,
@@ -416,7 +450,8 @@
         "price": 4.49,
         "category": 9,
         "rating": 4.0,
-        "image": "paperclip-tac.jpg"
+        "image": "paperclip-tac.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076663/PW-products/paperclip-tac_x0sxjn.jpg"
     }
 }, {
     "pk": 36,
@@ -428,7 +463,8 @@
         "price": 6.49,
         "category": 1,
         "rating": 4.5,
-        "image": "pen-pencil-set.jpg"
+        "image": "pen-pencil-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076648/PW-products/pen-pencil-set_i8x5jm.jpg"
     }
 }, {
     "pk": 37,
@@ -440,7 +476,8 @@
         "price": 1.99,
         "category": 2,
         "rating": 3.9,
-        "image": "pencil-set.jpg"
+        "image": "pencil-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076648/PW-products/pencil-set_uzdztu.jpg"
     }
 }, {
     "pk": 38,
@@ -452,7 +489,8 @@
         "price": 3.99,
         "category": 4,
         "rating": 4.6,
-        "image": "postercards.jpg"
+        "image": "postercards.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076700/PW-products/postercards_wdyojc.jpg"
     }
 }, {
     "pk": 39,
@@ -464,7 +502,8 @@
         "price": 7.49,
         "category": 5,
         "rating": 4.3,
-        "image": "schoolset1.jpg"
+        "image": "schoolset1.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076676/PW-products/schoolset1_tdru56.jpg"
     }
 }, {
     "pk": 40,
@@ -476,7 +515,8 @@
         "price": 4.59,
         "category": 6,
         "rating": 4.1,
-        "image": "sketchpad.jpg"
+        "image": "sketchpad.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076670/PW-products/sktechpad_yc3tx1.jpg"
     }
 }, {
     "pk": 41,
@@ -488,7 +528,8 @@
         "price": 6.99,
         "category": 9,
         "rating": 4.8,
-        "image": "stationery-set-2.jpg"
+        "image": "stationery-set-2.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076655/PW-products/stationery-set-2_l0oxoq.jpg"
     }
 }, {
     "pk": 42,
@@ -500,7 +541,8 @@
         "price": 5.99,
         "category": 5,
         "rating": 3.6,
-        "image": "stationery-set-3.jpg"
+        "image": "stationery-set-3.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076647/PW-products/stationery-set-3_dh27yg.jpg"
     }
 }, {
     "pk": 43,
@@ -512,7 +554,8 @@
         "price": 9.49,
         "category": 9,
         "rating": 5.0,
-        "image": "stationery-set-4.jpg"
+        "image": "stationery-set-4.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076698/PW-products/stationery-set-4_iff7zg.jpg"
     }
 }, {
     "pk": 44,
@@ -524,7 +567,8 @@
         "price": 7.99,
         "category": 9,
         "rating": 4.4,
-        "image": "stationery-set.jpg"
+        "image": "stationery-set.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076669/PW-products/stationery-set_xvweub.jpg"
     }
 }, {
     "pk": 45,
@@ -536,6 +580,7 @@
         "price": 4.99,
         "category": 4,
         "rating": 4.9,
-        "image": "white-a4-paper.jpg"
+        "image": "white-a4-paper.jpg",
+        "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076687/PW-products/white-a4-paper_aal8lf.jpg"
     }
 }]
