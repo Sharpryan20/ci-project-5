@@ -409,7 +409,7 @@
         "name": "Paintbrush set",
         "description": "This set of paint brushes is the ultimate starter pack for any artist. The set has brushes of all different styles and sizes to help one master the art of well... art.",
         "price": 4.99,
-        "category": 5,
+        "category": 8,
         "rating": 4.1,
         "image": "paintbrush-set.jpg",
         "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076708/PW-products/paintbrush-set_iwardn.jpg"
@@ -500,7 +500,7 @@
         "name": "Stationery set",
         "description": "This stationery is a must for your kid. It has everything they will need for the beginning of the school year. This set can also be used for office use.",
         "price": 7.49,
-        "category": 5,
+        "category": 7,
         "rating": 4.3,
         "image": "schoolset1.jpg",
         "image_url": "https://res.cloudinary.com/dvgol9ade/image/upload/v1658076676/PW-products/schoolset1_tdru56.jpg"
