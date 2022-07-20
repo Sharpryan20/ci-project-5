@@ -104,6 +104,10 @@ html {
 }
 
 .card-img-top {
+    height: 350px;
+}
+
+.product-img {
     height: 200px;
 }
 
@@ -114,6 +118,10 @@ html {
 .product-title {
     font-size: 20px;
     font-weight: bold;
+}
+
+.product-price {
+    font-size: 20px;
 }
 
 /* Footer CSS */
