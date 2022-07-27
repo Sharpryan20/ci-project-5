@@ -124,6 +124,14 @@ html {
     font-size: 20px;
 }
 
+.btt-button {
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
 /* Footer CSS */
 .site-footer {
     background-color: #F1F1F1;
