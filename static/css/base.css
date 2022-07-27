@@ -98,7 +98,7 @@ html {
     z-index: -1;
 }
 
-.products-header {
+.products-header, .bag-header {
     padding: 12px;
     font-family: 'Edu QLD Beginner', sans-serif;
 }
