@@ -34,19 +34,19 @@
             <div class="col-md-6 col-sm-12">
                 <div class="container-fluid index-card">
                     <img src="/media/pens.jpg" alt="" class="card-img-top index-product-image">
-                    <a href="" class="image-text">Pens</a>
+                    <a href="{% url 'products' %}?category=pens,pencil,markers" class="image-text">Pens</a>
                 </div>
             </div>
             <div class="col-md-6 col-sm-12">
                 <div class="container-fluid index-card">
                     <img src="/media/paper.jpg" alt="" class="card-img-top index-product-image">
-                    <a href="" class="image-text">Paper</a>
+                    <a href="{% url 'products' %}?category=paper,notepad_journal,sketch_pad" class="image-text">Paper</a>
                 </div>
             </div>
             <div class="col-md-6 col-sm-12">
                 <div class="container-fluid index-card">
                     <img src="/media/school-supplies.jpg" alt="" class="card-img-top index-product-image">
-                    <a href="" class="image-text">School Supplies</a>
+                    <a href="{% url 'products' %}?category=maths,art,accessories" class="image-text">School Supplies</a>
                 </div>
             </div>
         </div>
