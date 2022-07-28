@@ -18,6 +18,11 @@ html {
     color: #9B1E1E !important;
 }
 
+.text-black-pd:hover {
+    color: #9B1E1E !important;
+    border: 1px solid #9B1E1E;
+}
+
 .bg-black {
     background: #000 !important;
 }
