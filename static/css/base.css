@@ -219,6 +219,10 @@ html {
     cursor: pointer;
 }
 
+.message-container {
+    position: fixed;
+}
+
 /* Media Queries */
 
 
