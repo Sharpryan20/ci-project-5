@@ -187,6 +187,19 @@
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col-12 col-lg-7">
+            {% if from_profile %}
+                <a href="{% url 'profile' %}" class="btn btn-black text-black">
+                    <span class="icon">
+                        <i class="fas fa-angle-left"></i>
+                    </span>
+                    <span>Back to Profile</span>
+                </a>
+            {% else %}
+            {% endif %}
+        </div>
+    </div>
 </div>
 {% endblock %}
 
