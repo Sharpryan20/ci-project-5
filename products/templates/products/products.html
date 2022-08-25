@@ -64,7 +64,7 @@
                 <div class="row">
                     {% for product in products %}
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 product-card">
-                            <div class="card h-100 border-1 product-card">
+                            <div class="card h-120 border-1 product-card">
                                 {% if product.image %}
                                         <a href="{% url 'product_detail' product.id %}">
                                             <img src="{{ product.image_url }}" alt="{{ product.name }}" class="card-img-top product-img img-fluid">
@@ -96,7 +96,18 @@
                                         </div>
                                     </div>
                                 </div>
+                                {% if request.user.is_superuser %}
+                                    <div class="col-12 text-center">
+                                        <a href="{% url 'edit_product' product.id %}" class="btn btn-outline-black rounded-0 text-black-pd">
+                                            <span>Edit</span>
+                                        </a>
+                                        <a href="{% url 'delete_product' product.id %}" class="btn btn-outline-black rounded-0 text-black-pd">
+                                            <span>Delete</span>
+                                        </a>
+                                    </div>
+                                {% endif %}
                             </div>
+                            
                         </div>
                     {% endfor %}
                 </div>
