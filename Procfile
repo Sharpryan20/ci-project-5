@@ -1,1 +1,1 @@
-web: gunicorn paper_weight.wsgi.application
+web: gunicorn paper_weight.wsgi:application
