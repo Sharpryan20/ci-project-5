@@ -143,6 +143,24 @@ html {
     right: 10px;
 }
 
+.edit-button {
+    color: #28a745;
+}
+
+.edit-button:hover {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.delete-button {
+    color: #dc3545;
+}
+
+.delete-button:hover {
+    background-color: #dc3545;
+    color: #fff;
+}
+
 /* Footer CSS */
 .site-footer {
     background-color: #F1F1F1;

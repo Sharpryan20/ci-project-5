@@ -45,10 +45,10 @@
                     <p>{{ product.description }}</p>
                     {% if request.user.is_superuser %}
                     <div class="col-12">
-                        <a href="{% url 'edit_product' product.id %}" class="btn btn-outline-black rounded-0 text-black-pd">
+                        <a href="{% url 'edit_product' product.id %}" class="btn btn-outline-black rounded-0 edit-button">
                             <span>Edit</span>
                         </a>
-                        <a href="{% url 'delete_product' product.id %}" class="btn btn-outline-black rounded-0 text-black-pd">
+                        <a href="{% url 'delete_product' product.id %}" class="btn btn-outline-black rounded-0 delete-button">
                             <span>Delete</span>
                         </a>
                     </div>
