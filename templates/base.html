@@ -68,6 +68,16 @@
             </div>
             <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
                 <ul class="list-inline list-unstyled text-center text-lg-right my-0">
+                    <li class="list-inline-item">
+                        <a href="{% url 'blog' %}" class="text-black nav-link">
+                            <div class="text-center">
+                                <div>
+                                    <i class="fa-solid fa-newspaper"></i>
+                                    <p class="my-0">Blog</p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
                     <li class="list-inline-item dropdown">
                         <a class="text-black nav-link" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true"
                             aria-expanded="false">
@@ -117,7 +127,7 @@
             </nav>
         </div>
         <div id="delivery-banner" class="row text-center">
-            <div class="col bg-black text-white">
+            <div class="col fd-banner">
                 <h4 class="my-1">Free delivery on orders over ${{ free_delivery_threshold }}!</h4>
             </div>
         </div>
