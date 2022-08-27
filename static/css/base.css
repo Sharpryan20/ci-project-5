@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner&family=Splash&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
 
 html {
     height: 100%;
@@ -112,6 +112,8 @@ html {
 .products-header, .bag-header {
     padding: 12px;
     font-family: 'Edu QLD Beginner', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
 }
 
 .card-img-top {
@@ -133,6 +135,10 @@ html {
 
 .product-price {
     font-size: 20px;
+}
+
+.product-title {
+    font-family: 'DynaPuff', sans-serif;
 }
 
 .btt-button {
