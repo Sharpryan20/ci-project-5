@@ -1,5 +1,5 @@
 from django.db import models
-from cloudinary.models import CloudinaryField
+
 
 class Category(models.Model):
 
@@ -24,7 +24,7 @@ class Product(models.Model):
     rating = models.DecimalField(max_digits=6, decimal_places=2, null=True, blank=True)
     featured = models.BooleanField(default=False)
     image = models.ImageField(null=True, blank=True)
-    image_url = CloudinaryField('image', default='placeholder')
+    image_url = models.URLField(max_length=1024, null=True, blank=True)
     
 
     def __str__(self):
