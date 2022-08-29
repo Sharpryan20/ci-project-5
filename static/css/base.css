@@ -44,22 +44,10 @@ html {
     border: 1px solid lightgray;
 }
 
-.index-box {
-    position: absolute;
-    top: 65%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-color: lightgrey;
-    opacity: 0.8;
-    color: black;
-    font-size: 16px;
-    padding: 12px 24px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
+.home-title {
+    font-family: 'DynaPuff', sans-serif;
     text-align: center;
-    text-decoration: none;
+    background-color: #AEFF00;
 }
 
 .shop-now-button {
