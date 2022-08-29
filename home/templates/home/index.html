@@ -21,25 +21,25 @@
         <div class="row">
             <div class="col-md-6 col-sm-12 index-card">
                 <div class="container-fluid ">
-                    <img src="/media/all-products.jpg" alt="" class="card-img-top index-product-image">
+                    <img src="{{ MEDIA_URL }}all-products.jpg" alt="" class="card-img-top index-product-image">
                     <a href="{% url 'products' %}" class="image-text">All Products</a>
                 </div>
             </div>
             <div class="col-md-6 col-sm-12">
                 <div class="container-fluid index-card">
-                    <img src="/media/pens.jpg" alt="" class="card-img-top index-product-image">
+                    <img src="{{ MEDIA_URL }}pens.jpg" alt="" class="card-img-top index-product-image">
                     <a href="{% url 'products' %}?category=pens,pencil,markers" class="image-text">Pens</a>
                 </div>
             </div>
             <div class="col-md-6 col-sm-12">
                 <div class="container-fluid index-card">
-                    <img src="/media/paper.jpg" alt="" class="card-img-top index-product-image">
+                    <img src="{{ MEDIA_URL }}paper.jpg" alt="" class="card-img-top index-product-image">
                     <a href="{% url 'products' %}?category=paper,notepad_journal,sketch_pad" class="image-text">Paper</a>
                 </div>
             </div>
             <div class="col-md-6 col-sm-12">
                 <div class="container-fluid index-card">
-                    <img src="/media/school-supplies.jpg" alt="" class="card-img-top index-product-image">
+                    <img src="{{ MEDIA_URL }}school-supplies.jpg" alt="" class="card-img-top index-product-image">
                     <a href="{% url 'products' %}?category=maths,art,accessories" class="image-text">School Supplies</a>
                 </div>
             </div>
