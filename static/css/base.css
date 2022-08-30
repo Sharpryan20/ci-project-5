@@ -29,6 +29,14 @@ html {
     border: 1px solid #9B1E1E;
 }
 
+.ks-btn {
+    background-color: cornflowerblue;
+}
+
+.atb-btn {
+    background-color: goldenrod;
+}
+
 .bg-black {
     background: #000 !important;
 }
@@ -159,11 +167,6 @@ html {
     margin-bottom: 10px;
 }
 
-.product-title {
-    font-size: 0.9rem;
-    font-weight: bold;
-}
-
 .product-price {
     font-size: 20px;
 }
@@ -203,6 +206,13 @@ html {
     top: 72px;
     right: 15px;
     z-index: 99999999999;
+}
+
+.pd-title {
+    font-family: 'DynaPuff',
+    sans-serif;
+    text-align: center;
+    background-color: aquamarine;
 }
 
 /* Footer CSS */
