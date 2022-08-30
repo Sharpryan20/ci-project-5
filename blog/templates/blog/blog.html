@@ -1,10 +1,6 @@
 {% extends "base.html" %}
 {% load static %}
 
-{% block extra_css %}
-<link rel="stylesheet" href="{% static 'blog/css/blog.css' %}">
-{% endblock %}
-
 {% block page_header %}
 <div class="container header-container">
     <div class="row">
@@ -19,7 +15,7 @@
     <div class="row">
         <div class="col text-center">
             <hr>
-            <h1 class="bag-header">Paper Weight Blog</h1>
+            <h1 class="blog-header">Paper Weight Blog</h1>
             <hr>
         </div>
     </div>
@@ -42,6 +38,23 @@
                 </div>
             </div>
             {% endfor %}
+        </div>
+        <div class="col-md-6 mt-3 right">
+            <div class="card mb-4">
+                <div class="card-body info-board">
+                    <h2 class="text-center info-board-title">New Products Coming Soon!</h2>
+                </div>
+            </div>
+            <div class="card mb-4">
+                <div class="card-body feature-board">
+                    <h2 class="text-center">
+                        Check out Our featured items
+                    </h2>
+                    <div class="feature-click">
+                        <a href="{% url 'home' %}">here!</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

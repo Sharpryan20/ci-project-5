@@ -76,6 +76,39 @@ html {
     background-color: mediumpurple;
 }
 
+.blog-header {
+    font-family: 'DynaPuff',
+        sans-serif;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.info-board {
+    background-color: #9B1E1E;
+}
+
+.info-board-title {
+    font-family: 'DynaPuff', sans-serif;
+    color: white;
+}
+
+.feature-board {
+    background-color: cadetblue;
+    font-family: 'DynaPuff', sans-serif;
+}
+
+.feature-click {
+    text-align: center
+}
+
+.feature-click a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
 .shop-now-button {
     font-size: 25px;
 }
