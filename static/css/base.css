@@ -31,10 +31,21 @@ html {
 
 .ks-btn {
     background-color: cornflowerblue;
+    font-size: 1.3rem;
 }
 
 .atb-btn {
     background-color: goldenrod;
+    font-size: 1.3rem;
+}
+
+.co-btn {
+    background-color: forestgreen;
+    font-size: 1.3rem;
+}
+
+.checkout-buttons {
+    font-size: 2rem;
 }
 
 .bg-black {
@@ -155,8 +166,8 @@ html {
     margin: 0.8rem;
 }
 
-.card-img-top {
-    height: 350px;
+.sb-image {
+    height: 16rem;
 }
 
 .product-img {
