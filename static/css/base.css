@@ -50,6 +50,13 @@ html {
     background-color: #AEFF00;
 }
 
+.home-title2 {
+    font-family: 'DynaPuff',
+    sans-serif;
+    text-align: center;
+    background-color: mediumpurple;
+}
+
 .shop-now-button {
     font-size: 25px;
 }
@@ -68,7 +75,8 @@ html {
 }
 
 .index-product-image {
-    padding: 15px;
+    padding: 1rem;
+    object-fit: cover;
 }
 
 .index-card {
@@ -81,11 +89,40 @@ html {
 
 .index-card a {
     color: #000;
+    font-weight: bold;
+    font-family: 'DynaPuff';
+    text-transform: uppercase;
+    border: 1px solid #000;
+    padding: 0.5rem;
 }
 
 .index-card a:hover {
     color: #9B1E1E;
 }
+
+.product-price {
+    color: dodgerblue;
+}
+
+/* Index card colours */
+
+#all-products {
+    background-color: aqua;
+}
+
+#pens {
+    background-color: deeppink;
+}
+
+#paper {
+    background-color: lawngreen;
+}
+
+#school-supplies {
+    background-color: coral;
+}
+
+/**/
 
 .overlay {
     height: 100%;
@@ -104,12 +141,18 @@ html {
     font-size: 3rem;
 }
 
+.featured-products {
+    padding: 1rem;
+    margin: 0.8rem;
+}
+
 .card-img-top {
     height: 350px;
 }
 
 .product-img {
     height: 200px;
+    object-fit: cover;
 }
 
 .product-card {
@@ -117,7 +160,7 @@ html {
 }
 
 .product-title {
-    font-size: 18px;
+    font-size: 0.9rem;
     font-weight: bold;
 }
 

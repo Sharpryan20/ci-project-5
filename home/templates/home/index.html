@@ -18,7 +18,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row featured-products">
             <div class="product-container col-10 offset-1">
                 <div class="row">
                     {% for product in featured_list %}
@@ -40,15 +40,7 @@
                             <div class="card-footer bg-white pt-0 border-0 text-left">
                                 <div class="row">
                                     <div class="col">
-                                        <p class="lead mb-0 text-left font-weight-bold">${{ product.price }}</p>
-                                        {% if product.category %}
-                                        <p class="small mt-1 mb-0">
-                                            <a class="text-muted"
-                                                href="{% url 'products' %}?category={{ product.category.name }}">
-                                                <i class="fas fa-tag mr-1"></i>{{ product.category.friendly_name }}
-                                            </a>
-                                        </p>
-                                        {% endif %}
+                                        <p class="lead mb-0 text-left font-weight-bold product-price">${{ product.price }}</p>
                                         {% if product.rating %}
                                         <small class="text-muted"><i class="fas fa-star mr-1"></i>{{ product.rating }} /
                                             5</small>
@@ -79,26 +71,31 @@
         </div>
         <hr>
         <div class="row">
-            <div class="col-md-6 col-sm-12 index-card">
-                <div class="container-fluid ">
+            <div class="col-12">
+                <h1 class="home-title2 my-4">Browse All our products here!</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-12 my-3">
+                <div class="container-fluid index-card" id="all-products">
                     <img src="{{ MEDIA_URL }}all-products.jpg" alt="" class="card-img-top index-product-image">
-                    <a href="{% url 'products' %}" class="image-text">All Products</a>
+                    <a href="{% url 'products' %}" class="image-text">all-products</a>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12">
-                <div class="container-fluid index-card">
+            <div class="col-md-6 col-sm-12 my-3">
+                <div class="container-fluid index-card" id="pens">
                     <img src="{{ MEDIA_URL }}pens.jpg" alt="" class="card-img-top index-product-image">
                     <a href="{% url 'products' %}?category=pens,pencil,markers" class="image-text">Pens</a>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12">
-                <div class="container-fluid index-card">
+            <div class="col-md-6 col-sm-12 my-3">
+                <div class="container-fluid index-card" id="paper">
                     <img src="{{ MEDIA_URL }}paper.jpg" alt="" class="card-img-top index-product-image">
                     <a href="{% url 'products' %}?category=paper,notepad_journal,sketch_pad" class="image-text">Paper</a>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12">
-                <div class="container-fluid index-card">
+            <div class="col-md-6 col-sm-12 my-3">
+                <div class="container-fluid index-card" id="school-supplies">
                     <img src="{{ MEDIA_URL }}school-supplies.jpg" alt="" class="card-img-top index-product-image">
                     <a href="{% url 'products' %}?category=maths,art,accessories" class="image-text">School Supplies</a>
                 </div>
