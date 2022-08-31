@@ -113,6 +113,10 @@ html {
     font-family: 'DynaPuff';
 }
 
+.submit-button {
+    background-color: aquamarine;
+}
+
 .shop-now-button {
     font-size: 25px;
 }
