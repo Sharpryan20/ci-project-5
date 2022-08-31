@@ -1,8 +1,8 @@
-from django.shortcuts import render, get_object_or_404
-
+from django.shortcuts import render, get_object_or_404, redirect, reverse
+from django.contrib import messages
 from django.views import generic, View
 from .forms import CommentForm
-from .models import Post
+from .models import Post, Comment
 
 
 class PostList(generic.ListView):
@@ -65,3 +65,14 @@ class PostDetail(View):
                 "comment_form": CommentForm(),
             },
         )
+
+
+def delete_comment(request, comment_id):
+    """
+    Delete a product in the store.
+    """
+
+    comment = get_object_or_404(Comment, pk=comment_id)
+    comment.delete()
+    messages.success(request, 'comment successfully deleted')
+    return redirect(reverse('blog'))
