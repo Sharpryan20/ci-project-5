@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_header %}
+<div class="container header-container">
+    <div class="row">
+        <div class="col"></div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid py-5">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="contact-title my-4">Contact Us!</h1>
+        </div>
+    </div>
+</div>
+<div class="overlay">
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col">
+
+            <h3 class="text-center mb-3">Send us a message...
+            </h3>
+
+        </div>
+    </div>
+    <hr>
+    <div class="container mb-2">
+        <div class="row">
+            <!-- Contact form -->
+            <br>
+            <div class="col-lg-6 contact-form text-left">
+                <div class="row">
+                    <div class="col form-margin">
+                        <form action="{% url 'contact' %}" method="POST">
+                            {% csrf_token %}
+                            {% for field in form %}
+                            {{ field | as_crispy_field}}
+                            {% endfor %}
+                            <input type="submit" value="Submit" class="btn">
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 text-left">
+                <p>
+                    <i class="fas fa-map-marker-alt">
+                    </i> Orpington, Kent, United Kingdom
+                </p>
+                <p>
+                    <i class="fas fa-phone">
+                    </i> 0123456789
+                </p>
+                <p>
+                    <i class="fas fa-envelope">
+                    </i> paperweight@google.com
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

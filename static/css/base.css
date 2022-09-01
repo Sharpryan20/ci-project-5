@@ -63,7 +63,7 @@ html {
     border: 1px solid lightgray;
 }
 
-.home-title {
+.home-title, .contact-title {
     font-family: 'DynaPuff', sans-serif;
     text-align: center;
     background-color: #AEFF00;
