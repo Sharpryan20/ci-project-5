@@ -184,6 +184,12 @@ html {
 
 /**/
 
+/* Error Messages */
+
+.error-page-title {
+    font-family: 'DynaPuff', sans-serif;
+}
+
 .overlay {
     height: 100%;
     width: 100%;
