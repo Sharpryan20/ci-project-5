@@ -190,6 +190,19 @@ html {
     font-family: 'DynaPuff', sans-serif;
 }
 
+/**/
+
+/* Mail chimp css */
+
+#mc_embed_signup {
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+    width: 600px;
+}
+
+/**/
+
 .overlay {
     height: 100%;
     width: 100%;
