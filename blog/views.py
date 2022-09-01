@@ -69,7 +69,7 @@ class PostDetail(View):
 
 def delete_comment(request, comment_id):
     """
-    Delete a product in the store.
+    Delete a comment on the blog.
     """
 
     comment = get_object_or_404(Comment, pk=comment_id)

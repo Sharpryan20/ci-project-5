@@ -9,3 +9,10 @@ def index(request):
         'featured_list': featured_list,
     }
     return render(request, 'home/index.html', context)
+
+
+def privacy(request):
+    """
+    view to display Privacy Policy
+    """
+    return render(request, 'home/privacy.html')
