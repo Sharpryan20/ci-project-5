@@ -69,7 +69,7 @@ html {
     background-color: #AEFF00;
 }
 
-.home-title2 {
+.home-title2, .login-out-title {
     font-family: 'DynaPuff',
     sans-serif;
     text-align: center;
