@@ -18,3 +18,9 @@ At the checkout, the user will be prompted with a form in order to complete thei
 
 The payment system uses Stripe. (Please note this website is for eductional purposes only and the credit card payment functionality is not set up to take real payments.) When testing interactively, using the numbers 4242... for everyting will allow the payment to go through as it is a practice card.
 
+# UX
+
+## Ideal User Demographic 
+
+### The ideal users of this website are:
+- Gift givers
