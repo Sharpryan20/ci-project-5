@@ -105,6 +105,82 @@ The products page is quite simple. It features rows and rows of products which u
 
 The checkout page is again very simple which helps for an easy and efficient checkout. Th product images are featured on the left hand side and all the information about the product, the quantity and the total on the product/s are to the right of the images. On the bottom right shows the delivery charges and the total charges overall.
 
+## Features 
+
+### Home Page
+
+![Home page 1](media/readme-images/pw-homepage.png)
+
+![Home page 2](media/readme-images/pw-homepage2.png)
+
+### Footer 
+
+![Footer](media/readme-images/pw-footer.png)
+
+### Products
+
+![Products](media/readme-images/pw-products.png)
+
+### Products Detail
+
+![Products Detail](media/readme-images/pw-product-detail.png)
+
+### Bag 
+
+![Bag](media/readme-images/pw-bag.png)
+
+### Checkout 
+
+![Checkout](media/readme-images/pw-checkout.png)
+
+### Blog
+
+![Blog](media/readme-images/pw-blog-page.png)
+
+### Blog Details
+
+![Blog Details](media/readme-images/pw-blog-detail.png)
+
+### Order Confirmation
+
+![Order confirmation](media/readme-images/pw-order-confirm.png)
+
+## Web Marketing
+
+As part of the Code Institue assessment criteria, a facebook page was created to promote the company. Here is an screenshot of the page.
+![Paper Weight Facebook Page](media/readme-images/pw-fb-page.png)
+
+## Future expectations
+
+In the future I plan on implementing a lot of new features to the website such as;
+
+- The ability for a User to create their own blog and delete their own comments when made on another blog.
+
+- A wishlist function so users can add products they wish to buy at a later date.
+
+- The ability for a user to rate their purchases which contributes to the products overall ratings.
+
+- The ability for site owners to add, edit and delete blogs without having to go to the admin panel.
+
+## Testing 
+
+These are some PEP8 python validation screenshots:
+
+- Bag.views Check
+![Bag.views Check](media/readme-images/pw-bag-views-check.png)
+
+- Blog.admin check
+![Blog.admin check](media/readme-images/pw-blog-admin-chek.png)
+
+- Products.models check
+![Product.omdels Check](media/readme-images/pw-products-models-check.png)
+
+This is a screenshot of my lighthouse report for the home page:
+
+![Lighthouse Report](media/readme-images/pw-lighthouse%20report.png)
+
+### Manual Testing 
+
 ## Technologies Used 
 
 ### Languages and Frameworks
