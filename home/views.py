@@ -7,6 +7,7 @@ from products.models import Product
 from .models import Contact
 from .forms import ContactForm
 
+
 def index(request):
     """ A view to return the index page """
     featured_list = Product.objects.filter(featured=True)

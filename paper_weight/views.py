@@ -16,4 +16,3 @@ def handler500(request):
     response = render(request, "errors/500.html")
     response.status_code = 500
     return response
-    
